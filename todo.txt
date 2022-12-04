@@ -1,0 +1,5 @@
+1. Send current game data while creating or updating game
+2. Send User wallet data during any transactions
+3. Send bumper game data while creating or updating bumper game
+4. Send upcoming ticket data while ticket purchase
+
